@@ -19,7 +19,7 @@ title: YangGangUEFI # the main title
 tagline: Some UEFI Related Things # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Some UEFI Related Things.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +28,8 @@ url: "https://yangganguefi.github.io"
 github:
   username: YangGangUEFI # change to your GitHub username
 
-twitter:
-  username: yangg052 # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,9 +38,10 @@ social:
   email: yanggang.uefi@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/yangg052 # change to your Twitter homepage
     - https://github.com/YangGangUEFI # change to your GitHub homepage
+    - https://www.zhihu.com/people/yanggang96 # Zhihu
     # Uncomment below to add more social links
+    # - https://twitter.com/username # change to your Twitter homepage
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 

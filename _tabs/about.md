@@ -16,7 +16,7 @@ order: 4
 * [杨港@知乎](https://www.zhihu.com/people/yanggang96)
 
 #### OpenSource
-* [UEFI Chinese Font Generate](https://github.com/YangGangUEFI/UEFIChineseFontGenerate)
+* [UEFI Chinese Font Generate](https://yangganguefi.github.io/UEFIChineseFontGenerate/UEFIChineseFontGenerate.html) \| [Code@Github](https://github.com/YangGangUEFI/UEFIChineseFontGenerate)
 * [LVGL on UEFI Environment](https://github.com/YangGangUEFI/LvglPkg)
 * [Display some detail info for .efi file.(Windows)](https://github.com/YangGangUEFI/RomHover)
 * [A minimal implementation of UEFI OTA.](https://github.com/YangGangUEFI/UefiOta)
