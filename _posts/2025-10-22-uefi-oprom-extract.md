@@ -43,6 +43,6 @@ tags: [uefi, oprom, llm]     # TAG names should always be lowercase
     
     ![test](../assets/media/posts/2025-10-22-uefi-oprom-extract/result-2.png)
     
-    二进制是一样的，所以提取出来的 efi 应该是没有问题的。不过代码并没有细看，所以如果有问题，估计也只能等下次用上（并且触发了问题）才能直到了。
+    二进制是一样的，所以提取出来的 efi 应该是没有问题的。不过代码并没有细看，所以如果有问题，估计也只能等下次用上（并且触发了问题）才能知道了。
     
     感兴趣的朋友可以去 [https://yangganguefi.github.io/tools/UefiOpromExtract/UefiOpromExtract.html](https://yangganguefi.github.io/tools/UefiOpromExtract/UefiOpromExtract.html) 试一试。
