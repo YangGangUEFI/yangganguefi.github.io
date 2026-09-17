@@ -21,3 +21,4 @@ order: 4
 * [Display some detail info for .efi file.(Windows)](https://github.com/YangGangUEFI/RomHover)
 * [A minimal implementation of UEFI OTA.](https://github.com/YangGangUEFI/UefiOta)
 * [EDK2 Depex GUID Parser](https://yangganguefi.github.io/Edk2DepexGUIDParser/Edk2DepexGuidVue3.html) \| [Code@Github](https://github.com/YangGangUEFI/Edk2DepexGUIDParser) \| [DecGuidParser.py](https://github.com/YangGangUEFI/DecGuidParser)
+* [libsixel for UEFI](https://github.com/YangGangUEFI/SixelPkg)
